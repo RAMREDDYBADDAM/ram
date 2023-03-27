@@ -1,0 +1,41 @@
+title
+{
+	font-family:'Montserrat',sans-serif;
+	color: red;
+}
+body,html { 
+  background: url(251041.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1
+{
+	color: burlywood;
+	font-family: Georgia, serif;
+	text-align: center;
+	
+	border-style: solid;
+}
+button
+{
+	color: #8e3e3e;
+	text-align: center;
+
+}
+.btn
+{
+	font-weight: 600;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn:hover{
+	background-color: greenyellow;
+transition: 3s;
+font-width:4px;
+}
+.buffer
+{
+	height: 100px;
+}
